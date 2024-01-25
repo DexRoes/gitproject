@@ -1,9 +1,5 @@
-h1 {
-    border: 2px dashed red;
-    background-color: black;
-}
 div {
-    background-color: white;
+    background-color: red;
     max-width: 1200px;
 }
 
